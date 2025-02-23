@@ -1,6 +1,7 @@
 # Globe GFiber Prepaid Hidden Settings
 
-Tested on ZTE ZLT-G202, untested on other ZTE devices, you do you.
+Tested on ZLT-G202, untested on other ZTE devices, you do you.
+
 Use Case: Initially used to reveal settings that prevents me to obtain IPv6 while on bridge mode.
 
 # Instructions
